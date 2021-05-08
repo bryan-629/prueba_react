@@ -1,0 +1,34 @@
+{
+    "todos":[
+        {
+           "titulo": "Tarea 1",
+            "responsable": "Lisa",
+            "descripcion": "Lorem Ipsum",
+            "prioridad": "Alta"
+        },
+        {
+            "titulo": "Tarea 2",
+            "responsable": "Lisa",
+            "descripcion": "Lorem Ipsum",
+            "prioridad": "Media"
+        },
+        {
+            "titulo": "Tarea 3",
+            "responsable": "Lisa",
+            "descripcion": "Lorem Ipsum",
+            "prioridad": "Media"
+        },
+        {
+            "titulo": "Tarea 4",
+            "responsable": "Lisa",
+            "descripcion": "Lorem Ipsum",
+            "prioridad": "Baja"
+        },
+        {
+            "titulo": "Tarea 5",
+            "responsable": "Lisa",
+            "descripcion": "Lorem Ipsum",
+            "prioridad": "Alta"
+        }
+    ]
+}
